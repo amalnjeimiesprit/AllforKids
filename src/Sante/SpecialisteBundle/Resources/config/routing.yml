@@ -1,0 +1,7 @@
+sante_specialiste_homepage:
+    path:     /
+    defaults: { _controller: SanteSpecialisteBundle:Default:index }
+
+ajoutprofil1:
+    path:     ajoutprofil1
+    defaults: { _controller: SanteSpecialisteBundle:specialiste:ajout }
